@@ -1,4 +1,4 @@
 sass
 ====
 
-sass project
+From CSS to SASS
